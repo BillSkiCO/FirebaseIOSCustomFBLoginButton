@@ -1,8 +1,7 @@
 //
 //  FacebookLogin.swift
-//  Docense
 //
-//  Created by Bill Golembieski on 4/9/16.
+//  Created by Bill Golembieski on 04/09/2016.
 //  Email: BillGolembieski@projectu23.com
 //  Copyright © 2016 Bill Golembieski. All rights reserved.
 //
